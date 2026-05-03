@@ -23,4 +23,3 @@
 +print(type (3 >= 3)  # Bool
 +result = 3 > 2
 +print(result)
-
